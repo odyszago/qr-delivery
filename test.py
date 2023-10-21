@@ -1,7 +1,6 @@
 import csv
 
 def main():
-    print("pass")
     print("pass2")
     print("pass3")
     
